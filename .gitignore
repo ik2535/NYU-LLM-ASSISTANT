@@ -1,0 +1,8 @@
+data/
+faiss_index/
+/src/.env
+__pycache__/
+.venv/
+.vscode/
+.DS_Store
+NYU_logo.png
